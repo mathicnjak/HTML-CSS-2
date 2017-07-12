@@ -1,0 +1,27 @@
+footer {
+
+	background-color: black;
+	color: white;
+}
+#razdvajanje {
+
+	height: 500px;
+}
+.aktiv{
+	margin-left: 20px;
+}
+
+ul {
+			list-style-type: none;
+			float: right;
+			margin-right: 50px;
+		}
+li {
+	float: left;		
+		}
+a {
+	display: block;
+	padding: 5px 20px 5px 20px;
+	border: 1px solid red;
+	text-decoration: none;
+		} 
